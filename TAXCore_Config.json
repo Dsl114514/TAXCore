@@ -1,0 +1,9 @@
+{
+  "JavaPath": "D:\\java8\\bin\\java.exe",
+  "QemuPath": "D:\\Program Files\\qemu",
+  "FFmpegPath": "FFmpeg\\bin",
+  "WallpaperFPS": 30,
+  "UseStaticWallpaper": false,
+  "UseVRAMCache": true,
+  "VideoScale": 0.5
+}
