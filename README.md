@@ -97,9 +97,5 @@
 - **开始播放**: `<PlayImageSequence/>`
 - **参数**:
   - `Folder`: 文件路径
-  - `Id`: 标识符
-  - `FPS`: 每秒播放帧数
-  - `Loop`: 是否循环 (`true/false`)
-
-- **暂停播放**: `<StopImageSequenceAction/>`
-- **参数**: `Id='标识符'`（要停止的序列帧ID）
+ ### IRC&HUB滚动条
+- **加入滚动条方便翻看信息**-
