@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = TAXCore
-build_property.ProjectDir = F:\Project\C#\TAXCore CN fix\TAXCore\
+build_property.ProjectDir = F:\Project\C#\.vscode\TAXCore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

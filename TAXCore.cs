@@ -112,7 +112,7 @@ namespace TAXCore
 
             
             global::TAXCore.Patches.IMEHandler.Init();
-
+            global::TAXCore.Themes.DynamicThemeManager.Init();
             
             ActionManager.RegisterAction<FullscreenNetmapAction>("FullscreenNetmap");
             ActionManager.RegisterAction<RestoreUIAction>("RestoreUI");
@@ -139,6 +139,7 @@ namespace TAXCore
             PrintGradientAscii(taxCoreArt);
             return true;
         }
+        
 
         private void OnExtensionLoad(Pathfinder.Event.Loading.ExtensionLoadEvent e)
         {

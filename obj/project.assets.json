@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Project\\C#\\TAXCore CN fix\\TAXCore\\TAXCore.csproj",
+      "projectUniqueName": "F:\\Project\\C#\\.vscode\\TAXCore\\TAXCore.csproj",
       "projectName": "TAXCore",
-      "projectPath": "F:\\Project\\C#\\TAXCore CN fix\\TAXCore\\TAXCore.csproj",
+      "projectPath": "F:\\Project\\C#\\.vscode\\TAXCore\\TAXCore.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\Project\\C#\\TAXCore CN fix\\TAXCore\\obj\\",
+      "outputPath": "F:\\Project\\C#\\.vscode\\TAXCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

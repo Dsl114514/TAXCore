@@ -16,3 +16,12 @@ F:\Project\C#\TAXCore CN fix\TAXCore\obj\Debug\net472\TAXCore.AssemblyInfo.cs
 F:\Project\C#\TAXCore CN fix\TAXCore\obj\Debug\net472\TAXCore.csproj.CoreCompileInputs.cache
 F:\Project\C#\TAXCore CN fix\TAXCore\obj\Debug\net472\TAXCore.dll
 F:\Project\C#\TAXCore CN fix\TAXCore\obj\Debug\net472\TAXCore.pdb
+F:\Project\C#\ck\TAXCore\obj\Debug\net472\TAXCore.csproj.AssemblyReference.cache
+F:\Project\C#\ck\TAXCore\obj\Debug\net472\TAXCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\C#\ck\TAXCore\obj\Debug\net472\TAXCore.AssemblyInfoInputs.cache
+F:\Project\C#\ck\TAXCore\obj\Debug\net472\TAXCore.AssemblyInfo.cs
+F:\Project\C#\ck\TAXCore\obj\Debug\net472\TAXCore.csproj.CoreCompileInputs.cache
+F:\Project\C#\ck\TAXCore\obj\Debug\net472\TAXCore.dll
+F:\Project\C#\ck\TAXCore\obj\Debug\net472\TAXCore.pdb
+F:\Project\C#\ck\TAXCore\bin\Debug\net472\TAXCore.dll
+F:\Project\C#\ck\TAXCore\bin\Debug\net472\TAXCore.pdb

@@ -1,9 +1,11 @@
-using HarmonyLib;
+
 using Hacknet;
 using TAXCore.Executibles;
 using Microsoft.Xna.Framework;
 using System.Collections.Generic;
 using Pathfinder.Executable;
+using HarmonyLib;
+
 namespace TAXCore.Patches
 {
     [HarmonyPatch(typeof(OS), "drawModules")]
